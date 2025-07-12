@@ -15,4 +15,4 @@ export default function Footer({ onClear = () => { }, children }) {
             </div>
         </footer>
     )
-}
+}   
