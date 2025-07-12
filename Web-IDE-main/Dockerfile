@@ -3,7 +3,7 @@ FROM node:22-alpine
 
 WORKDIR /home/app
 
-LABEL version="1.0" co-author="parvez"
+LABEL version="1.0"
 
 COPY package*.json .
 
